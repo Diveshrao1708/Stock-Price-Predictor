@@ -5,7 +5,7 @@ This project involves predicting stock prices using Long Short-Term Memory (LSTM
 
 ## Prerequisites
 - Python 3
-- Jupyter Notebook or any Python IDE
+- Jupyter Notebook or any Python IDE 
 
 ## Usage
 1. Run the program.
